@@ -9,4 +9,3 @@ Date,Species,Count
 2015-05-03,shark,1
 
 some line
-some line 4
